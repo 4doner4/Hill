@@ -1,0 +1,15 @@
+D:\PROJECT\visual studio\Hill\Hill\bin\Debug\net6.0\Hill.exe
+D:\PROJECT\visual studio\Hill\Hill\bin\Debug\net6.0\Hill.deps.json
+D:\PROJECT\visual studio\Hill\Hill\bin\Debug\net6.0\Hill.runtimeconfig.json
+D:\PROJECT\visual studio\Hill\Hill\bin\Debug\net6.0\Hill.dll
+D:\PROJECT\visual studio\Hill\Hill\bin\Debug\net6.0\Hill.pdb
+D:\PROJECT\visual studio\Hill\Hill\obj\Debug\net6.0\Hill.csproj.AssemblyReference.cache
+D:\PROJECT\visual studio\Hill\Hill\obj\Debug\net6.0\Hill.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\visual studio\Hill\Hill\obj\Debug\net6.0\Hill.AssemblyInfoInputs.cache
+D:\PROJECT\visual studio\Hill\Hill\obj\Debug\net6.0\Hill.AssemblyInfo.cs
+D:\PROJECT\visual studio\Hill\Hill\obj\Debug\net6.0\Hill.csproj.CoreCompileInputs.cache
+D:\PROJECT\visual studio\Hill\Hill\obj\Debug\net6.0\Hill.dll
+D:\PROJECT\visual studio\Hill\Hill\obj\Debug\net6.0\refint\Hill.dll
+D:\PROJECT\visual studio\Hill\Hill\obj\Debug\net6.0\Hill.pdb
+D:\PROJECT\visual studio\Hill\Hill\obj\Debug\net6.0\Hill.genruntimeconfig.cache
+D:\PROJECT\visual studio\Hill\Hill\obj\Debug\net6.0\ref\Hill.dll
